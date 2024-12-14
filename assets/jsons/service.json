@@ -1,0 +1,22 @@
+[
+    {
+        "title": "100",
+        "subtitle":"Total vehicle",
+        "image": "assets/images/totalvehicle.png"
+    },
+    {
+        "title": "50",
+        "subtitle":"Total Bookings",
+        "image": "assets/images/totalbooking.png"
+    },
+    {
+        "title": "25",
+        "subtitle":"C2B Concepts",
+        "image": "assets/images/c2bconcepts.png"
+    },
+    {
+        "title": "35",
+        "subtitle":"Vehicle For Sale",
+        "image": "assets/images/forsale.png"
+    }
+]
